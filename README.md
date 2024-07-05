@@ -1,15 +1,12 @@
-## Employee List
-    
+## Employee List 
 ## Features:
     - Here, we can add an employee with the name, email, job title.
     - We can remove the employee from the list.
-
 ## Technology used:
     - ReactJS
     - Bootstrap
     - TypeScript
     - Netlify Hosting
-
 ## Available Scripts
 
 In the project directory, you can run:
